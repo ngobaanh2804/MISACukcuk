@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7T3OUR/EGiBNwJD6EtiRZ9j377p8G2BKYlOYxDPWk943rriddjpj4vqOT55kYVZEmbgn39jWh/VmAWgR0c5lCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NBAnh\\Downloads\\QLNV\\QLNV\\ApplicationCore\\MISACukcuk.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NBAnh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\NBAnh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
